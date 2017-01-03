@@ -1,0 +1,16 @@
+@import 'asciidoctor.css';
+/* your rules here */
+
+body {
+    font-family: Sans-Serif;
+    font-size: 11pt;
+}
+
+p {
+    font-size: 11pt;
+    line-height: 1.4;
+}
+
+p.tableblock {
+    font-size: 11pt;
+}
