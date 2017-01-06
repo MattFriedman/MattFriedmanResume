@@ -21,7 +21,6 @@ Matt Friedman is a technology leader seeking a collaborative role in a modern te
 ** Skilled at envisioning and implementing complex enterprise applications
 ** Strong communication and interpersonal skills
 
-
 icon:check[] *_Skills_*
 
 [format="dsv"]
@@ -34,9 +33,7 @@ git, svn, cvs : Jenkins, Bamboo, CI/CD : Tomcat, Jetty, Glassfish
 nginx, httpd :  The Netflix Stack (Ribbon, Feign, Eureka etc...)  : Docker, Vagrant, VirtualBox
 |===
 
-
 <<<
-
 
 icon:industry[] *_Professional Experience_*
 
@@ -70,9 +67,6 @@ Designed and developed Spring applications for Afilias Global Registry Services.
 ** Provide architectural and technical implementation guidance
 ** Company Leader in TDD and Continuous Integration
 
-
-
-
 **Contract Architect &amp; Developer**
 
 _April 2009 - November 2011_
@@ -81,10 +75,7 @@ _Contract Architect &amp; Developer_
 
 Various contracts for Pro Active Water Solutions, Financial Wellness Planning, TheParentReport.com.
 
-
 <<<
-
-
 
 **Symcor Inc.**
 
@@ -97,12 +88,6 @@ multi-terabyte document storage and retrieval system
 ** Performed post-implementation optimization of ePresentment resulting in a 10 fold
 increase in performance and speed of document processing and significant cost savings (jprobe profiler)
 
-
-
-
-
-
-
 **Symcor Inc.**
 
 _January 2006 - January 2007_
@@ -112,7 +97,6 @@ _Developer V / Architect_
 ** Led the Communicator development team to successful completion of the Communicator Product which was
 designed to be fully modularized and customizable, leading to faster implementation times and
 elimination of the need to alter code per client implementation
-
 
 **Symcor Inc.**
 
@@ -124,10 +108,6 @@ _Developer IV_
 ** Managed client customizations of Communicator
 ** Worked with the team to continuously improve and refactor the structure of the Communicator code base
 
-
-
-
-
 **Symcor Inc.**
 
 _January 2003 - February 2005_
@@ -138,12 +118,7 @@ _Developer III_
 without altering the code (templates)
 ** Managed per client customizations of Communicator
 
-
 <<<
-
-
-
-
 
 **CTV &amp; Bell Globe Media Interactive**
 
@@ -154,8 +129,6 @@ _Client / Server Programmer_
 ** Key developer on BGMi's "Entry Point" content management system, used to manage a number of sites such as the
 company's corporate communications site, www.bellglobemedia.ca, and www.theComedyNetwork.ca
 
-
-
 **Spry New Media**
 
 _March 2000 - February 2001_
@@ -164,8 +137,6 @@ _Principal and Lead Programmer_
 
 ** Lead Developer and database designer for: www.theparentreport.com
 ** Gathered requirements from the client
-
-
 
 **Computer Master Technical Centre**
 
@@ -177,9 +148,6 @@ _Contract Programmer_
 ** Designed and implemented a searchable skills database application where students could maintain their online
 portfolios; employers could search for students with specific skill sets
 
-
-
-
 **100.3 The Q Radio, Victoria, B.C.**
 
 _December 1996 - December 1999_
@@ -187,9 +155,6 @@ _December 1996 - December 1999_
 _Audio Engineer_
 
 ** Audio production for commercials, promotions. Talent direction and client assistance.
-
-
-
 
 **Q92 / 790 CIGM Radio, Sudbury, Ontario**
 
@@ -200,13 +165,7 @@ _Audio Production Manager_
 ** Responsible for coordinating audio production for promotions and advertisements, directing talent,
 managing production staff, working with writers and assisting clients.
 
-
-
 <<<
-
-
-
-
 
 icon:certificate[] *_Training &amp; Education_*
 
@@ -223,8 +182,6 @@ _Web Applications Diploma_
 
 ** Web Application Development in HTML, Java and PHP
 
-
-
 **Fanshawe College**
 
 _1992 - 1994_
@@ -233,14 +190,11 @@ _Radio Broadcasting Diploma_
 
 ** Broadcasting diploma
 
-
 **Wilfrid Laurier University**
 
 _1989 - 1991_
 
 _Honours Business Administration_
-
-
 
 icon:flask[] *_Hobbies and Interests_*
 
@@ -248,7 +202,6 @@ icon:flask[] *_Hobbies and Interests_*
 ** 4x4 adventures
 ** Hiking &amp; Wilderness Camping
 ** The craft of software design &amp; implementation
-
 
 Source: https://github.com/MattFriedman/MattFriedmanResume
 
