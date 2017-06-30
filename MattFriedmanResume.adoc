@@ -1,6 +1,6 @@
 = Matt Friedman
 Matt Friedman <matt.friedman@gmail.com>
-v1.1, Resume Updated for January 2017
+v1.2, Resume Updated for June 2017
 :title: Matt Friedman's Resume
 :doctype: article
 :icons: font
