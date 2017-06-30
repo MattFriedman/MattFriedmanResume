@@ -12,9 +12,11 @@ icon:check[] *_Profile_*
 
 Matt Friedman is a technology leader seeking a collaborative role in a modern technology driven environment.
 
-** Provides technical guidance and training while designing and developing strategic business software
+
+** Provides architectural & technical guidance and training while designing and developing strategic business software
 ** Creates efficient, maintainable and extensible software that meets or exceeds business goals
 ** 17+ years experience with a proven record of bringing successful projects into production
+** Expert Kubernetes and Docker operator
 ** Expert in TDD and Continuous Integration
 ** Teaching and Mentoring
 ** A lifetime learner of new techniques, APIs and approaches
@@ -28,9 +30,9 @@ icon:check[] *_Skills_*
 Linux  (CentOS/Redhat, Ubuntu) : Java, Groovy, Bash : IntelliJ IDEA, Vim
 Gradle, Maven : Spring Cloud/Boot/MVC/Integration and all things Spring \:)  : Elastic, RabbitMQ, Ehcache Kafka
 Javascript, Knockout, AngularJS : JUnit, Spock, Mockito  : JMeter, Robot, Cucumber
-Kubernetes, Mesos, Marathon, DC/OS : JAXB, Jackson, JSON, XML : Postgresql, MySQL
+Kubernetes/Docker, Mesos, Marathon, DC/OS : JAXB, Jackson, JSON, XML : Postgresql, MySQL
 git, svn, cvs : Jenkins, Bamboo, CI/CD : Tomcat, Jetty, Glassfish
-nginx, httpd :  The Netflix Stack (Ribbon, Feign, Eureka etc...)  : Docker, Vagrant, VirtualBox
+nginx, httpd :  The Netflix Stack (Ribbon, Feign, Eureka etc...)  : Vagrant, VirtualBox
 |===
 
 <<<
