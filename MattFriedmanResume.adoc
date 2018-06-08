@@ -1,6 +1,6 @@
 = Matt Friedman
 Matt Friedman <matt.friedman@gmail.com>
-v1.3, Resume Updated for Feb. 2018
+v1.4, Resume Updated for June 2018
 :title: Matt Friedman's Resume
 :doctype: article
 :icons: font
@@ -14,7 +14,7 @@ Matt Friedman is a technology leader seeking a collaborative role in a modern te
 
 ** Provides architectural & implementation guidance
 ** 18+ years experience with a proven record of bringing successful projects into production
-** Substantial Kubernetes and Docker experience
+** Application Transformation, Kubernetes and Docker experience
 ** Expert Test Driven Java/Groovy/Spring developer
 ** Significant Continuous Integration experience
 
@@ -32,8 +32,19 @@ nginx, httpd :  The Netflix Stack (Ribbon, Feign, Eureka etc...)  : Vagrant, Vir
 
 icon:industry[] *_Professional Experience_*
 
+*UpChain Inc.*
+_April 2018 - Present; Toronto, Ontario_
+_Application Architect_
+Responsible for the Application Architecture group. Reporting to the CTO. 
+
+** Providing guidance on approaches, design, and tools to the team and to the CTO
+** Leading a team of Architects and Senior DevOps
+** Internal product owner curating tasks via Kanban in JIRA
+** Application transformation
+** Lift to Cloud
+
 *Exchange Solutions Inc.*
-_December 2015 - Present; Toronto, Ontario_
+_December 2015 - March 2018; Toronto, Ontario_
 _Software Architect_
 
 Technology Leader reporting to the Team Lead and working directly with the VP of Technology and CTO.
@@ -164,6 +175,13 @@ icon:flask[] *_Hobbies and Interests_*
 ** 4x4 adventures
 ** Hiking &amp; Wilderness Camping
 ** The craft of software design &amp; implementation
+
+icon:audio[] *_Podcasts_*
+
+** Inspirational Living
+** The Knowledge Project
+** Radical Candor
+** The Tim Ferriss Show
 
 Source: https://github.com/MattFriedman/MattFriedmanResume
 
