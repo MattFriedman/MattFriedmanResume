@@ -35,11 +35,11 @@ icon:industry[] *_Professional Experience_*
 *UpChain Inc.*
 _April 2018 - Present; Toronto, Ontario_
 _Application Architect_
-Responsible for the Application Architecture group. Reporting to the CTO. 
+
+Responsible for the Application Architecture team. Reporting to the CTO. 
 
 ** Providing guidance on approaches, design, and tools to the team and to the CTO
-** Leading a team of Architects and Senior DevOps
-** Internal product owner curating tasks via Kanban in JIRA
+** Curating tasks via Kanban in JIRA as an internal product owner
 ** Application transformation
 ** Lift to Cloud
 
