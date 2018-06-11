@@ -10,55 +10,52 @@ v1.4, Resume Updated for June 2018
 
 icon:check[] *_Profile_*
 
-Matt Friedman is a technology leader seeking a collaborative role in a modern technology driven environment.
+Matt Friedman is a collaborative architect and team leader seeking a role in a modern technology driven environment.
 
 ** Provides architectural & implementation guidance
+** Team Leader
 ** 18+ years experience with a proven record of bringing successful projects into production
-** Application Transformation, Kubernetes and Docker experience
+** Kubernetes, Docker
 ** Expert Test Driven Java/Groovy/Spring developer
-** Significant Continuous Integration experience
+** Automates All the Things!
 
 icon:check[] *_Skills and Experience_*
 
 [format="dsv"]
 |===
 Linux  (CentOS/Redhat, Ubuntu) : Java, Groovy, Bash : IntelliJ IDEA, Vim
-Gradle, Maven : Spring Cloud/Boot/MVC/Integration and all things Spring \:)  : Elastic, RabbitMQ, Ehcache, Hazelcast
-Javascript, Knockout, AngularJS : JUnit, Spock, Mockito  : JMeter, Robot, Cucumber
+Maven, Gradle : Spring Cloud/Boot/MVC/Integration and all things Spring \:)  : Elasticsearch, RabbitMQ, Ehcache, Hazelcast
+Javascript, Knockout, AngularJS : JUnit, Spock, Mockito, Powermock  : JMeter, Robot, Cucumber
 Kubernetes/Docker, Mesos, Marathon, DC/OS : JAXB, Jackson, JSON, XML : Postgresql, MySQL
-git, svn, cvs : Jenkins, Bamboo, CI/CD : Tomcat, Jetty
+git, svn, cvs : Jenkins, CI/CD : Tomcat, Jetty
 nginx, httpd :  The Netflix Stack (Ribbon, Feign, Eureka etc...)  : Vagrant, VirtualBox
 |===
 
 icon:industry[] *_Professional Experience_*
 
 *UpChain Inc.*
-_April 2018 - Present; Toronto, Ontario_
-_Application Architect_
+_April 2018 - Present; Toronto, Ontario_, _Application Architect_
 
 Responsible for the Application Architecture team. Reporting to the CTO. 
 
 ** Providing guidance on approaches, design, and tools to the team and to the CTO
 ** Curating tasks via Kanban in JIRA as an internal product owner
 ** Application transformation
-** Lift to Cloud
+** Assists with interviews for key roles at UpChain; architects, operations, QA...
 
 *Exchange Solutions Inc.*
-_December 2015 - March 2018; Toronto, Ontario_
-_Software Architect_
+_December 2015 - March 2018; Toronto, Ontario_, _Software Architect_
 
 Technology Leader reporting to the Team Lead and working directly with the VP of Technology and CTO.
 
 ** Provided technical advice and guidance to the CTO (topics such as TDD, Automation, CI/CD, Agile...)
-** Application transformation that led to the successful launch of a key application stack using Kubernetes in Production
+** The successful launch of a key application stack using Kubernetes in Production
 ** Presented a Continuous Delivery strategy including a complete Delivery Pipeline using Jenkins
 ** Implemented RESTful clients and services key to the business (Spring RestTemplate / Netflix Feign)
 ** Instrumental in the expansion of TDD, Automation and Agile methodologies at ESI
 
-
 *Afilias Inc. - Global Registry Services*
-_October 2011 - November 2015_
-_Senior Developer / Architect_
+_October 2011 - November 2015_, _Senior Developer / Architect_
 
 Designed and developed Spring applications for Afilias Global Registry Services.
 
@@ -66,80 +63,66 @@ Designed and developed Spring applications for Afilias Global Registry Services.
 ** Designed and implemented improvements to key B2B server software (NIO/Netty)
 ** Provided architectural and technical implementation guidance
 ** Company Leader in TDD and Continuous Integration
-<<<
 
 **Contract Architect &amp; Developer**
-_April 2009 - November 2011_
-_Contract Architect &amp; Developer_
+_April 2009 - November 2011_, _Contract Architect &amp; Developer_
 
 Various contracts for Pro Active Water Solutions, Financial Wellness Planning, TheParentReport.com.
 
 **Symcor Inc.**
-_January 2007 - April 2009_
-_Software Architect_
+_January 2007 - April 2009_, _Software Architect_
 
 ** Team lead / architect of redesign and reimplementation of ePresentment, Symcor's
 multi-terabyte document storage and retrieval system
-** Performed post-implementation optimization of ePresentment resulting in a 10 fold
-increase in performance and speed of document processing and significant cost savings (jprobe profiler)
+** Performed post-implementation optimization of ePresentment resulting in a significant
+increase in performance and speed of document processing and cost savings (jprobe profiler)
 
 **Symcor Inc.**
-_January 2006 - January 2007_
-_Developer V / Architect_
+_January 2006 - January 2007_, _Developer V / Architect_
 
-** Led the Communicator (CRM tool) development team to successful completion of the Communicator Product which was
-designed to be fully modularized and customizable, leading to faster implementation times and
-elimination of the need to alter code per client implementation
+** Led the CRM Tool development team to successful completion of the CRM Tool Product which was
+designed to be fully modularized and customizable, leading to efficient implementation and configuration times
 
 **Symcor Inc.**
-_January 2005 - January 2006_
-_Developer IV_
+_January 2005 - January 2006_, _Developer IV_
 
-** Developed and presented to senior management a project plan to re-implement Communicator as a customizable product
-** Managed client customizations of Communicator
-** Worked with the team to continuously improve and refactor the structure of the Communicator code base
+** Developed and presented to senior management a project plan to re-implement the CRM Tool as a customizable product
+** Managed client customizations of CRM Tool
+** Worked with the team to continuously improve and refactor the structure of the CRM Tool code base
 
 **Symcor Inc.**
-_January 2003 - February 2005_
-_Developer III_
+_January 2003 - February 2005_, _Developer III_
 
-** Redesigned and re-implemented the specialized JavaScript text editor in Communicator resulting in customization of the tool
-without altering the code (templates)
-** Managed per client customizations of Communicator
+** Redesigned and re-implemented the specialized JavaScript text editor in the CRM Tool resulting in customization of the tool
+without altering the code (templating)
+** Managed per client customizations of the CRM Tool
 
 **CTV &amp; Bell Globe Media Interactive**
-_March 2001 - October 2002_
-_Client / Server Programmer_
+_March 2001 - October 2002_, _Client / Server Programmer_
 
 ** Key developer on BGMi's "Entry Point" content management system, used to manage a number of sites such as the
-company's corporate communications site, www.bellglobemedia.ca, and www.theComedyNetwork.ca
+company's corporate communications site, www.bellglobemedia.ca, and www.theComedyNetwork.ca...
 
 **Spry New Media**
-_March 2000 - February 2001_
-_Principal and Lead Programmer_
+_March 2000 - February 2001_, _Principal and Lead Programmer_
 
 ** Lead Developer and database designer for: www.theparentreport.com
-** Gathered requirements from the client
 
 **Computer Master Technical Centre**
-_December 1999 - February 2000_
-_Contract Programmer_
+_December 1999 - February 2000_, _Contract Programmer_
 
 ** Hired as a contract programmer immediately upon graduation
 ** Designed and implemented a searchable skills database application where students could maintain their online
-portfolios; employers could search for students with specific skill sets
+portfolios
 
 <<<
-
 **100.3 The Q Radio, Victoria, B.C.**
-_December 1996 - December 1999_
-_Audio Engineer_
+_December 1996 - December 1999_, _Audio Engineer_
 
 ** Audio production for commercials, promotions. Talent direction and client assistance.
 
 **Q92 / 790 CIGM Radio, Sudbury, Ontario**
-_December 1994 - December 1996_
-_Audio Production Manager_
+_December 1994 - December 1996_, _Audio Production Manager_
 
 ** Responsible for coordinating audio production for promotions and advertisements, directing talent,
 managing production staff, working with writers and assisting clients.
@@ -152,21 +135,17 @@ icon:certificate[] *_Training &amp; Education_*
 * Zend PHP Certified Engineer - Toronto, ON - 2005
 
 **Computer Master Technology Centre**
-_1999 - 1999 (3 months)_
-_Web Applications Diploma_
+_1999 - 1999 (3 months)_, _Web Applications Diploma_
 
 ** Web Application Development in HTML, Java and PHP
 
 **Fanshawe College**
-_1992 - 1994_
-_Radio Broadcasting Diploma_
+_1992 - 1994_, _Radio Broadcasting Diploma_
 
 ** Broadcasting diploma
 
 **Wilfrid Laurier University**
-_1989 - 1991_
-
-_Honours Business Administration_ (partial)
+_1989 - 1991_, _Honours Business Administration_ (2 years)
 
 icon:flask[] *_Hobbies and Interests_*
 
@@ -175,12 +154,10 @@ icon:flask[] *_Hobbies and Interests_*
 ** Hiking &amp; Wilderness Camping
 ** The craft of software design &amp; implementation
 
-icon:audio[] *_Podcasts_*
+icon:podcast[] *_Favorite Podcasts_*
 
 ** Inspirational Living
-** The Knowledge Project
 ** Radical Candor
-** The Tim Ferriss Show
 
 Source: https://github.com/MattFriedman/MattFriedmanResume
 
