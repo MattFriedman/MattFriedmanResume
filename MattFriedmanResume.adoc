@@ -49,7 +49,7 @@ _December 2015 - March 2018; Toronto, Ontario_, _Software Architect_
 Technology Leader reporting to the Team Lead and working directly with the VP of Technology and CTO.
 
 ** Provided technical advice and guidance to the CTO (topics such as TDD, Automation, CI/CD, Agile...)
-** The successful launch of a key application stack using Kubernetes in Production
+** Successful launch of a key application stack using Kubernetes in Production
 ** Presented a Continuous Delivery strategy including a complete Delivery Pipeline using Jenkins
 ** Implemented RESTful clients and services key to the business (Spring RestTemplate / Netflix Feign)
 ** Instrumental in the expansion of TDD, Automation and Agile methodologies at ESI
