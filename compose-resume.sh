@@ -2,5 +2,4 @@
 
 asciidoctor MattFriedmanResume.adoc -a stylesheet=styles.css -o MattFriedmanResume.html
 
-wkhtmltopdf MattFriedmanResume.html MattFriedmanResume.pdf
-
+wkhtmltopdf  MattFriedmanResume.html MattFriedmanResume.pdf
