@@ -1,6 +1,9 @@
 = Matt Friedman
+
 Matt Friedman <matt.friedman@gmail.com>
-v1.5, Resume Updated for May 2018
+
+v1.6, Resume Updated March 2023
+
 :title: Matt Friedman's Resume
 :doctype: article
 :icons: font
@@ -10,161 +13,148 @@ v1.5, Resume Updated for May 2018
 
 icon:check[] *_Profile_*
 
-Matt Friedman is a collaborative software programmer and architect and is now gaining experience in site reliability engineering.
+Matt Friedman is an experienced collaborative platform and software engineer
+who specializes in site reliability engineering, gitops, and automation.
 
-** Provides architectural & implementation guidance
-** 19+ years experience with a proven record of bringing successful projects into production
-** Kubernetes, Docker
-** Expert Test Driven Java/Groovy/Spring developer
-** Automates All the Things!
+** Enjoys learning and building tools for testing / automation
+
+** 22+ years experience with a proven record of bringing successful projects to production
 
 icon:check[] *_Skills and Experience_*
 
-[format="dsv"]
 |===
-Linux  (CentOS/Redhat, Ubuntu) : Java, Groovy, Bash : IntelliJ IDEA, Vim
-Maven, Gradle : Spring Cloud/Boot/MVC/Integration and all things Spring \:)  : Elasticsearch, RabbitMQ, Ehcache, Hazelcast
-Javascript, Knockout, AngularJS : JUnit, Spock, Mockito, Powermock  : JMeter, Robot, Cucumber
-Kubernetes/Docker, Mesos, Marathon, DC/OS : JAXB, Jackson, JSON, XML : Postgresql, MySQL
-git, svn, cvs : Jenkins, CI/CD : Tomcat, Jetty
-nginx, httpd :  The Netflix Stack (Ribbon, Feign, Eureka etc...)  : Vagrant, VirtualBox
+
+|PCF (Cloud Foundry), Kubernetes, ArgoCD | Python, Java, Groovy, Bash |Postgresql, MySQL
+
+|CentOS/RHEL/Debian | JSON, XML |Elasticsearch, RabbitMQ, Ehcache, Hazelcast
+
+|IntelliJ IDEA, Vim |Maven, Make |Javascript, React, AngularJS
+
+|Java+Spring |JUnit, Spock, Mockito, Powermock |Robot Framework
+
+|git, svn|Jenkins, Concourse, Ansible, Tekton Pipelines CI/CD |Tomcat, Jetty,
+nginx, httpd, The Netflix Stack (Ribbon, Feign, Eureka etc...), Vagrant,
+VirtualBox, libvirt
 |===
+
 
 icon:industry[] *_Professional Experience_*
 
-*RBC*
-_January 2019 - Present; Toronto, Ontario_, _Cloud Platform Engineer_
+*RBC* _January 2022 - Present; Toronto, Ontario_, _Principal Cloud Engineer_
 
-Build, maintain and manage Cloud Platform tooling and pipelines. Pair with and mentor team members.
+* OpenShift and Cloud Foundry team member (on-prem)
+* Service Level Indicator application and dashboard builder (argocd, prometheus & grafana)
 
-** The Cloud Platform Engineer role at RBC closely resembles the Site Reliability Engineer role (Google)
-** This role combines operations and programming (Infrastructure as Code)
-** Implement Concourse pipelines to automate items such as monitoring and Service Level Indicator calculations
-** Practicing Pair Programming daily 
-** Pairing on tasks such as Vault migration and reconciliation and Datadog dashboard synchronization
+*RBC* _January 2019 - January 2022; Toronto, Ontario_, _Cloud Platform Engineer_
 
-*UpChain Inc.*
-_April 2018 - December 2018; Toronto, Ontario_, _Application Architect_
+Build, maintain and manage Cloud Platform tooling and pipelines. Pair with
+and mentor team members.
 
-Responsible for the Application Architecture team. Reporting to the CTO. 
+*UpChain Inc.* _April 2018 - December 2018; Toronto, Ontario_, _Application
+Architect_
+
+Responsible for the Application Architecture team. Reporting to the CTO.
 
 ** Providing guidance on approaches, design, and tools to the team and to the CTO
-** Curating tasks via Kanban in JIRA as an internal product owner
 ** Application transformation
-** Assists with interviews for key roles at UpChain; architects, operations, QA...
+** Assists with interviews
 
-*Exchange Solutions Inc.*
-_December 2015 - March 2018; Toronto, Ontario_, _Software Architect_
+*Exchange Solutions Inc.* _December 2015 - March 2018; Toronto, Ontario_, _Software Architect_
 
-Technology Leader reporting to the Team Lead and working directly with the VP of Technology and CTO.
+Technology Leader reporting to the Team Lead and working directly with the
+VP of Technology and CTO.
 
-** Provided technical advice and guidance to the CTO (topics such as TDD, Automation, CI/CD, Agile...)
-** Successful launch of a key application stack using Kubernetes in Production
-** Presented a Continuous Delivery strategy including a complete Delivery Pipeline using Jenkins
-** Implemented RESTful clients and services key to the business (Spring RestTemplate / Netflix Feign)
+** Provided technical advice and guidance to the CTO (topics such as TDD,
+Automation, CI/CD, Agile...)
+** Successful launch of a key application stack
+using Kubernetes in Production
 ** Instrumental in the expansion of TDD, Automation and Agile methodologies at ESI
 
-<<<
-*Afilias Inc. - Global Registry Services*
-_October 2011 - November 2015_, _Senior Developer / Architect_
+*Afilias Inc. - Global Registry Services* _October 2011 - November 2015_,
+_Senior Developer / Architect_
 
 Designed and developed Spring applications for Afilias Global Registry Services.
 
-** Confidently developed and released tested APIs and services into production with no issues
-** Designed and implemented improvements to key B2B server software (NIO/Netty)
-** Provided architectural and technical implementation guidance
+** Confidently developed and released tested APIs and services into production
+with no issues
 ** Company Leader in TDD and Continuous Integration
 
-**Contract Architect &amp; Developer**
-_April 2009 - November 2011_, _Contract Architect &amp; Developer_
+**Contract Architect &amp; Developer** _April 2009 - November 2011_, _Contract Architect &amp; Developer_
 
-Various contracts for Pro Active Water Solutions, Financial Wellness Planning, TheParentReport.com.
+Various contracts for Pro Active Water Solutions, Financial Wellness Planning,
+TheParentReport.com.
 
-**Symcor Inc.**
-_January 2007 - April 2009_, _Software Architect_
+**Symcor Inc.** _January 2007 - April 2009_, _Software Architect_
 
-** Team lead / architect of redesign and reimplementation of ePresentment, Symcor's
-multi-terabyte document storage and retrieval system
-** Performed post-implementation optimization of ePresentment resulting in a significant
-increase in performance and speed of document processing and cost savings (jprobe profiler)
+** Team lead / architect of redesign and reimplementation of ePresentment,
+Symcor's multi-terabyte document storage and retrieval system
 
-**Symcor Inc.**
-_January 2006 - January 2007_, _Developer V / Architect_
+<<<
 
-** Led the CRM Tool development team to successful completion of the CRM Tool Product which was
-designed to be fully modularized and customizable, leading to efficient implementation and configuration times
+**Symcor Inc.** _January 2006 - January 2007_, _Developer V / Architect_
 
-**Symcor Inc.**
-_January 2005 - January 2006_, _Developer IV_
+** Led the CRM Tool development team to successful completion of the CRM
+Tool Product which was designed to be fully modularized and customizable,
+leading to efficient implementation and configuration times
 
-** Developed and presented to senior management a project plan to re-implement the CRM Tool as a customizable product
-** Managed client customizations of CRM Tool
-** Worked with the team to continuously improve and refactor the structure of the CRM Tool code base
+**Symcor Inc.** _January 2005 - January 2006_, _Developer IV_
 
-**Symcor Inc.**
-_January 2003 - February 2005_, _Developer III_
+** Developed and presented to senior management a project plan to re-implement
+the CRM Tool as a customizable product
+** Worked with the team to continuously improve and refactor the
+structure of the CRM Tool code base
 
-** Redesigned and re-implemented the specialized JavaScript text editor in the CRM Tool resulting in customization of the tool
-without altering the code (templating)
+**Symcor Inc.** _January 2003 - February 2005_, _Developer III_
+
+** Redesigned and re-implemented the specialized JavaScript text editor in
+the CRM Tool resulting in customization of the tool without altering the code
+(templating)
 ** Managed per client customizations of the CRM Tool
 
-**CTV &amp; Bell Globe Media Interactive**
-_March 2001 - October 2002_, _Client / Server Programmer_
+**CTV &amp; Bell Globe Media Interactive** _March 2001 - October 2002_, _Client / Server Programmer_
 
-** Key developer on BGMi's "Entry Point" content management system, used to manage a number of sites such as the
-company's corporate communications site, www.bellglobemedia.ca, and www.theComedyNetwork.ca...
+** Key developer on BGMi's "Entry Point" content management system,
+www.bellglobemedia.ca, www.theComedyNetwork.ca...
 
-**Spry New Media**
-_March 2000 - February 2001_, _Principal and Lead Programmer_
+**Spry New Media** _March 2000 - February 2001_, _Principal and Lead Programmer_
 
-** Lead Developer and database designer for: www.theparentreport.com
+** Lead Developer and database designer for: www.theparentreport.com (site now retired)
 
-**Computer Master Technical Centre**
-_December 1999 - February 2000_, _Contract Programmer_
+**Computer Master Technical Centre** _December 1999 - February 2000_, _Contract Programmer_
 
 ** Hired as a contract programmer immediately upon graduation
-** Designed and implemented a searchable skills database application where students could maintain their online
-portfolios
+** Designed
+and implemented a searchable skills database application where students
+could maintain their online portfolios
 
-**100.3 The Q Radio, Victoria, B.C.**
-_December 1996 - December 1999_, _Audio Engineer_
+**100.3 The Q Radio, Victoria, B.C.** _December 1996 - December 1999_, _Audio Engineer_
 
-** Audio production for commercials, promotions. Talent direction and client assistance.
-
-**Q92 / 790 CIGM Radio, Sudbury, Ontario**
-_December 1994 - December 1996_, _Audio Production Manager_
-
-** Responsible for coordinating audio production for promotions and advertisements, directing talent,
-managing production staff, working with writers and assisting clients.
+**Q92 / 790 CIGM Radio, Sudbury, Ontario** _December 1994 - December 1996_, _Audio Production Manager_
 
 icon:certificate[] *_Training &amp; Education_*
 
+* Currently enrolled in Coursera's Machine Learning Specialization, having completed the first course and currently in progress with subsequent courses.
 * Elastic Search Training - Toronto, ON - 2015
-* Spring Core Training - Toronto, ON - 2014
-* Spring Integration Training - Toronto, ON - 2014
+* Spring Core Training -
+Toronto, ON - 2014 * Spring Integration Training - Toronto, ON - 2014
 * Zend PHP Certified Engineer - Toronto, ON - 2005
 
-<<<
-**Computer Master Technology Centre**
-_1999 - 1999 (3 months)_, _Web Applications Diploma_
+**Computer Master Technology Centre** _1999 - 1999 (3 months)_, _Web Applications Diploma_
 
 ** Web Application Development in HTML, Java and PHP
 
-**Fanshawe College**
-_1992 - 1994_, _Radio Broadcasting Diploma_
+**Fanshawe College** _1992 - 1994_, _Radio Broadcasting Diploma_
 
 ** Broadcasting diploma
 
-**Wilfrid Laurier University**
-_1989 - 1991_, _Honours Business Administration_ (2 years)
+**Wilfrid Laurier University** _1989 - 1991_, _Honours Business Administration_ (2 years)
 
 icon:flask[] *_Hobbies and Interests_*
 
 ** Film &amp; Digital Photography <https://500px.com/mattfriedman>
-** Electronics
 ** 4x4 adventures
 ** Hiking &amp; Wilderness Camping
-** The craft of software design &amp; implementation
+** Home computer lab
 
 icon:podcast[] *_Favorite Podcasts_*
 
